@@ -45,7 +45,7 @@ void leevec(int [], int n);
             }
             case 3:
             {
-                cout<<"Introduce el numero de valores incluidos en el vector"<<endl;
+                cout<<"Introduce el numero de valoress incluidos en el vector"<<endl;
                 cin>>o;
                 leevec(Vec, o);
                 cout << "1. Suma" << endl;
