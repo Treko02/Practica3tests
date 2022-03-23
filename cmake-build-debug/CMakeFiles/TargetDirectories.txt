@@ -1,0 +1,3 @@
+C:/Users/Public/Documents/practica3tests/cmake-build-debug/CMakeFiles/practica3tests.dir
+C:/Users/Public/Documents/practica3tests/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Public/Documents/practica3tests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
